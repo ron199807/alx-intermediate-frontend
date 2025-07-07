@@ -1,0 +1,8 @@
+Steps to Install SASS:
+
+1. Install SASS globally:
+   - Run: npm install -g sass@3.7.4
+
+2. Verify SASS installation:
+   - Run: sass --version
+   - Should output: 3.7.4
